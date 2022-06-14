@@ -9,7 +9,7 @@ spec:
     kind: '*'
   destinations:
   - namespace: 'rhacm-policies'
-    name: '*'
+    name: 'local-cluster'
     server: '*'
   sourceRepos:
   - '*'
